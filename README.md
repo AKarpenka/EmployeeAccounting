@@ -12,7 +12,7 @@ You can try here:
 # How to install 
 1. Clone the repository:
 ```cmd
-YourFolderName > git clone 
+YourFolderName > git clone git@github.com:AKarpenka/EmployeeAccounting.git
 ```
 
 2. Install npm packages:
