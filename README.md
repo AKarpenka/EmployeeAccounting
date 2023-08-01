@@ -1,6 +1,6 @@
 # Employee Accounting App
 A pure React application that implements adding employees, changing their data and deleting them, as well as filtering, searching for a mark in two categories.
-You can try here: employee-accounting-gilt.vercel.app
+You can try here: https://employee-accounting-gilt.vercel.app
 
 `ReactJS`
 
