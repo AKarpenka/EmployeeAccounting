@@ -6,7 +6,7 @@ You can try here: https://vercel.com/akarpenka/employee-accounting/3inqkgzMmWJfC
 
 # Preview 
 <p align="center">
-  <img src="client/public/ToDoApp.gif" width="500"/>
+  <img src="public/EmployeesApp" width="500"/>
 </p>
 
 # How to install 
